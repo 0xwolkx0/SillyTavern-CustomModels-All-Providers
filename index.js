@@ -5,7 +5,7 @@ const supportedProviders = [
     'openai', 'claude', 'windowai', 'aimlapi', 'openrouter', 'ai21', 'scale',
     'makersuite', 'vertexai', 'mistralai', 'custom', 'cohere', 'perplexity',
     'groq', '01ai', 'nanogpt', 'deepseek', 'xai', 'pollinations', 'novelai',
-    'koboldai', 'textgenerationwebui', 'horde', 'anthropic', 'together', 'z.ai',
+    'koboldai', 'textgenerationwebui', 'horde', 'anthropic', 'together', 'zai',
 ];
 
 const defaultSettings = { provider: {} };
